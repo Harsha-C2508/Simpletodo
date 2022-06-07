@@ -1,0 +1,24 @@
+.box{
+    background: #cecece ;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.button{
+    margin-left: 10px;
+    height: 33px;
+    width: 33px;
+    font-size: 15px;
+    font-weight: 900;
+    border: 2px solid;
+    cursor: pointer;
+}
+.input{
+    width: 200px;
+    color: black;
+    height: 30px;
+    border: 2px solid;
+
+}
