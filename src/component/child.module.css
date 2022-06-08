@@ -1,0 +1,47 @@
+.box{
+    display: block;
+    width: 40%;
+    height: 270px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 0.5px;
+}
+.top{
+    display: flex;
+    height: 30px;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.p{
+    margin-top: -5px;
+}
+.p1{
+    margin-top: -5px;
+    padding-right: 10px;
+}
+.text{
+    width: 100px;
+    height: 35px;
+    color: white;
+    margin-left: 20px;
+}
+.head{
+    display: flex;
+    align-items: flex-start;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.mode{
+    display: flex;
+    width: 94%;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+    margin-right: 10px;
+}
